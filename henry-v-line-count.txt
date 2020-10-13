@@ -1,0 +1,156 @@
+ACT I
+PROLOGUE
+	Chorus: 34
+SCENE I. London. An ante-chamber in the KING'S palace.
+	CANTERBURY: 82
+	ELY: 20
+SCENE II. The same. The Presence chamber.
+	KING HENRY V: 120
+	EXETER: 16
+	WESTMORELAND: 14
+	CANTERBURY: 141
+	ELY: 7
+	First Ambassador: 17
+ACT II
+PROLOGUE
+	Chorus: 42
+SCENE I. London. A street.
+	BARDOLPH: 22
+	NYM: 37
+	PISTOL: 41
+	Hostess: 14
+	Boy: 4
+SCENE II. Southampton. A council-chamber.
+	BEDFORD: 3
+	EXETER: 11
+	WESTMORELAND: 3
+	KING HENRY V: 137
+	SCROOP: 13
+	CAMBRIDGE: 15
+	GREY: 12
+SCENE III. London. Before a tavern.
+	Hostess: 27
+	PISTOL: 16
+	BARDOLPH: 6
+	NYM: 4
+	Boy: 7
+SCENE IV. France. The KING'S palace.
+	KING OF FRANCE: 42
+	DAUPHIN: 38
+	Constable: 12
+	Messenger: 2
+	EXETER: 57
+ACT III
+PROLOGUE
+	Chorus: 35
+SCENE I. France. Before Harfleur.
+	KING HENRY V: 34
+SCENE II. The same.
+	BARDOLPH: 1
+	NYM: 5
+	PISTOL: 13
+	Boy: 32
+	FLUELLEN: 43
+	GOWER: 11
+	JAMY: 11
+	MACMORRIS: 20
+SCENE III. The same. Before the gates.
+	KING HENRY V: 51
+	GOVERNOR: 7
+SCENE IV. The FRENCH KING's palace.
+	KATHARINE: 35
+	ALICE: 20
+SCENE V. The same.
+	KING OF FRANCE: 28
+	Constable: 21
+	DAUPHIN: 11
+	BOURBON: 9
+SCENE VI. The English camp in Picardy.
+	GOWER: 21
+	FLUELLEN: 62
+	PISTOL: 21
+	KING HENRY V: 44
+	MONTJOY: 24
+	GLOUCESTER: 1
+SCENE VII. The French camp, near Agincourt:
+	Constable: 49
+	ORLEANS: 32
+	DAUPHIN: 50
+	RAMBURES: 6
+	Messenger: 3
+ACT IV
+PROLOGUE
+	Chorus: 53
+SCENE I. The English camp at Agincourt.
+	KING HENRY V: 205
+	ERPINGHAM: 7
+	GLOUCESTER: 2
+	PISTOL: 17
+	GOWER: 3
+	FLUELLEN: 15
+	COURT: 2
+	BATES: 17
+	WILLIAMS: 39
+SCENE II. The French camp.
+	ORLEANS: 3
+	DAUPHIN: 10
+	Constable: 29
+	RAMBURES: 2
+	Messenger: 1
+	GRANDPRE: 18
+SCENE III. The English camp.
+	GLOUCESTER: 1
+	BEDFORD: 4
+	WESTMORELAND: 7
+	EXETER: 4
+	SALISBURY: 9
+	KING HENRY V: 95
+	MONTJOY: 13
+	YORK: 2
+SCENE IV. The field of battle.
+	PISTOL: 28
+	French Soldier: 15
+	Boy: 29
+SCENE V. Another part of the field.
+	Constable: 4
+	ORLEANS: 5
+	DAUPHIN: 6
+	BOURBON: 9
+SCENE VI. Another part of the field.
+	KING HENRY V: 12
+	EXETER: 27
+SCENE VII. Another part of the field.
+	FLUELLEN: 76
+	GOWER: 14
+	KING HENRY V: 60
+	EXETER: 2
+	GLOUCESTER: 1
+	MONTJOY: 16
+	WILLIAMS: 11
+SCENE VIII. Before KING HENRY'S pavilion.
+	WILLIAMS: 20
+	FLUELLEN: 38
+	GOWER: 1
+	WARWICK: 1
+	KING HENRY V: 58
+	Herald: 1
+	EXETER: 5
+ACT V
+PROLOGUE
+	Chorus: 45
+SCENE I. France. The English camp.
+	GOWER: 15
+	FLUELLEN: 47
+	PISTOL: 23
+SCENE II. France. A royal palace.
+	KING HENRY V: 213
+	KING OF FRANCE: 9
+	QUEEN ISABEL: 24
+	BURGUNDY: 68
+	KATHARINE: 23
+	ALICE: 7
+	FRENCH KING: 15
+	WESTMORELAND: 3
+	EXETER: 8
+	ALL: 2
+	Chorus: 14

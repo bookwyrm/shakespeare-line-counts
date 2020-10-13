@@ -1,0 +1,138 @@
+ACT I
+SCENE I. Elsinore. A platform before the castle.
+	BERNARDO: 34
+	FRANCISCO: 10
+	HORATIO: 99
+	MARCELLUS: 46
+SCENE II. A room of state in the castle.
+	KING CLAUDIUS: 93
+	CORNELIUS: 0
+	VOLTIMAND: 1
+	LAERTES: 7
+	LORD POLONIUS: 4
+	HAMLET: 102
+	QUEEN GERTRUDE: 10
+	HORATIO: 50
+	MARCELLUS: 2
+	BERNARDO: 4
+	All: 1
+SCENE III. A room in Polonius' house.
+	LAERTES: 52
+	OPHELIA: 20
+	LORD POLONIUS: 68
+SCENE IV. The platform.
+	HAMLET: 68
+	HORATIO: 26
+	MARCELLUS: 7
+SCENE V. Another part of the platform.
+	HAMLET: 98
+	Ghost: 89
+	MARCELLUS: 7
+	HORATIO: 15
+ACT II
+SCENE I. A room in POLONIUS' house.
+	LORD POLONIUS: 88
+	REYNALDO: 15
+	OPHELIA: 28
+SCENE II. A room in the castle.
+	KING CLAUDIUS: 40
+	QUEEN GERTRUDE: 20
+	ROSENCRANTZ: 44
+	GUILDENSTERN: 19
+	LORD POLONIUS: 143
+	VOLTIMAND: 21
+	HAMLET: 280
+	First Player: 49
+ACT III
+SCENE I. A room in the castle.
+	KING CLAUDIUS: 40
+	ROSENCRANTZ: 12
+	GUILDENSTERN: 5
+	QUEEN GERTRUDE: 9
+	LORD POLONIUS: 24
+	OPHELIA: 33
+	HAMLET: 79
+SCENE II. A hall in the castle.
+	HAMLET: 224
+	First Player: 3
+	LORD POLONIUS: 12
+	ROSENCRANTZ: 11
+	GUILDENSTERN: 22
+	HORATIO: 9
+	KING CLAUDIUS: 6
+	QUEEN GERTRUDE: 3
+	OPHELIA: 16
+	Prologue: 3
+	Player King: 44
+	Player Queen: 30
+	LUCIANUS: 6
+	All: 1
+SCENE III. A room in the castle.
+	KING CLAUDIUS: 50
+	GUILDENSTERN: 5
+	ROSENCRANTZ: 13
+	LORD POLONIUS: 9
+	HAMLET: 24
+SCENE IV. The Queen's closet.
+	LORD POLONIUS: 7
+	HAMLET: 175
+	QUEEN GERTRUDE: 47
+	Ghost: 6
+ACT IV
+SCENE I. A room in the castle.
+	KING CLAUDIUS: 30
+	QUEEN GERTRUDE: 12
+SCENE II. Another room in the castle.
+	HAMLET: 20
+	ROSENCRANTZ:: 0
+	GUILDENSTERN:: 1
+	ROSENCRANTZ: 8
+	GUILDENSTERN: 1
+SCENE III. Another room in the castle.
+	KING CLAUDIUS: 45
+	ROSENCRANTZ: 4
+	HAMLET: 24
+SCENE IV. A plain in Denmark.
+	PRINCE FORTINBRAS: 8
+	Captain: 12
+	HAMLET: 47
+	ROSENCRANTZ: 1
+SCENE V. Elsinore. A room in the castle.
+	QUEEN GERTRUDE: 16
+	Gentleman: 24
+	HORATIO: 2
+	OPHELIA: 76
+	KING CLAUDIUS: 67
+	LAERTES: 47
+	Danes: 3
+SCENE VI. Another room in the castle.
+	HORATIO: 27
+	Servant: 1
+	First Sailor: 5
+SCENE VII. Another room in the castle.
+	KING CLAUDIUS: 138
+	LAERTES: 47
+	Messenger: 5
+	QUEEN GERTRUDE: 21
+ACT V
+SCENE I. A churchyard.
+	First Clown: 94
+	Second Clown: 18
+	HAMLET: 132
+	HORATIO: 10
+	LAERTES: 18
+	First Priest: 13
+	QUEEN GERTRUDE: 12
+	KING CLAUDIUS: 9
+	All: 1
+SCENE II. A hall in the castle.
+	HAMLET: 222
+	HORATIO: 51
+	OSRIC: 48
+	Lord: 7
+	KING CLAUDIUS: 28
+	LAERTES: 35
+	QUEEN GERTRUDE: 7
+	All: 1
+	PRINCE FORTINBRAS: 19
+	First Ambassador: 6

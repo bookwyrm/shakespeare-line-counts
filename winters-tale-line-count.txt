@@ -1,0 +1,95 @@
+ACT I
+SCENE I. Antechamber in LEONTES' palace.
+	ARCHIDAMUS: 22
+	CAMILLO: 23
+SCENE II. A room of state in the same.
+	POLIXENES: 129
+	LEONTES: 215
+	HERMIONE: 68
+	MAMILLIUS: 4
+	CAMILLO: 123
+ACT II
+SCENE I. A room in LEONTES' palace.
+	HERMIONE: 46
+	First Lady: 9
+	MAMILLIUS: 18
+	Second Lady: 4
+	LEONTES: 109
+	First Lord: 18
+	ANTIGONUS: 31
+SCENE II. A prison.
+	PAULINA: 49
+	Gaoler: 13
+	EMILIA: 21
+SCENE III. A room in LEONTES' palace.
+	LEONTES: 111
+	First Servant: 3
+	First Lord: 10
+	PAULINA: 86
+	ANTIGONUS: 29
+	Second Servant: 2
+	Lords: 2
+	Servant: 5
+ACT III
+SCENE I. A sea-port in Sicilia.
+	CLEOMENES: 11
+	DION: 16
+SCENE II. A court of Justice.
+	LEONTES: 75
+	Officer: 26
+	HERMIONE: 89
+	First Lord: 8
+	CLEOMENES: 0
+	DION: 1
+	Lords: 1
+	Servant: 5
+	PAULINA: 61
+SCENE III. Bohemia. A desert country near the sea.
+	ANTIGONUS: 52
+	Mariner: 11
+	Shepherd: 43
+	Clown: 34
+ACT IV
+	Time: 33
+SCENE II. Bohemia. The palace of POLIXENES.
+	POLIXENES: 39
+	CAMILLO: 15
+SCENE III. A road near the Shepherd's cottage.
+	AUTOLYCUS: 84
+	Clown: 42
+SCENE IV. The Shepherd's cottage.
+	FLORIZEL: 168
+	PERDITA: 121
+	Shepherd: 82
+	POLIXENES: 95
+	CAMILLO: 131
+	Clown: 74
+	DORCAS: 12
+	MOPSA: 20
+	Servant: 35
+	AUTOLYCUS: 189
+	Shepard: 2
+ACT V
+SCENE I. A room in LEONTES' palace.
+	CLEOMENES: 12
+	LEONTES: 106
+	PAULINA: 69
+	DION: 11
+	Gentleman: 18
+	FLORIZEL: 38
+	Lord: 24
+	PERDITA: 3
+SCENE II. Before LEONTES' palace.
+	AUTOLYCUS: 21
+	First Gentleman: 26
+	Second Gentleman: 17
+	Third Gentleman: 66
+	Shepherd: 8
+	Clown: 34
+SCENE III. A chapel in PAULINA'S house.
+	LEONTES: 76
+	PAULINA: 75
+	POLIXENES: 10
+	PERDITA: 7
+	CAMILLO: 7
+	HERMIONE: 8

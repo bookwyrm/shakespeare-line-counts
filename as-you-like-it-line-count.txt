@@ -1,0 +1,117 @@
+ACT I
+SCENE I. Orchard of Oliver's house.
+	ORLANDO: 60
+	ADAM: 6
+	OLIVER: 57
+	DENNIS: 3
+	CHARLES: 36
+SCENE II. Lawn before the Duke's palace.
+	CELIA: 80
+	ROSALIND: 55
+	TOUCHSTONE: 24
+	LE BEAU: 46
+	DUKE FREDERICK: 21
+	ORLANDO: 37
+	CHARLES: 5
+SCENE III. A room in the palace.
+	CELIA: 62
+	ROSALIND: 52
+	DUKE FREDERICK: 24
+ACT II
+SCENE I. The Forest of Arden.
+	DUKE SENIOR: 29
+	AMIENS: 3
+	First Lord: 39
+	Second Lord: 2
+SCENE II. A room in the palace.
+	DUKE FREDERICK: 8
+	First Lord: 4
+	Second Lord: 9
+SCENE III. Before OLIVER'S house.
+	ORLANDO: 23
+	ADAM: 54
+SCENE IV. The Forest of Arden.
+	ROSALIND: 26
+	TOUCHSTONE: 22
+	CELIA: 6
+	CORIN: 26
+	SILVIUS: 19
+SCENE V. The Forest.
+	AMIENS: 17
+	JAQUES: 40
+SCENE VI. The forest.
+	ADAM: 3
+	ORLANDO: 15
+SCENE VII. The forest.
+	DUKE SENIOR: 52
+	First Lord: 3
+	JAQUES: 99
+	ORLANDO: 32
+	ADAM: 2
+	AMIENS: 17
+ACT III
+SCENE I. A room in the palace.
+	DUKE FREDERICK: 16
+	OLIVER: 2
+SCENE II. The forest.
+	ORLANDO: 58
+	CORIN: 31
+	TOUCHSTONE: 64
+	ROSALIND: 167
+	CELIA: 68
+	JAQUES: 21
+SCENE III. The forest.
+	TOUCHSTONE: 66
+	AUDREY: 9
+	JAQUES: 14
+	SIR OLIVER MARTEXT: 4
+SCENE IV. The forest.
+	ROSALIND: 20
+	CELIA: 27
+	CORIN: 10
+SCENE V. Another part of the forest.
+	SILVIUS: 29
+	PHEBE: 72
+	ROSALIND: 42
+ACT IV
+SCENE I. The forest.
+	JAQUES: 16
+	ROSALIND: 136
+	ORLANDO: 36
+	CELIA: 11
+SCENE II. The forest.
+	JAQUES: 8
+	A Lord: 1
+	Forester: 10
+SCENE III. The forest.
+	ROSALIND: 71
+	CELIA: 22
+	SILVIUS: 14
+	OLIVER: 79
+ACT V
+SCENE I. The forest.
+	TOUCHSTONE: 41
+	AUDREY: 6
+	WILLIAM: 11
+	CORIN: 1
+SCENE II. The forest.
+	ORLANDO: 25
+	OLIVER: 9
+	ROSALIND: 65
+	PHEBE: 8
+	SILVIUS: 12
+SCENE III. The forest.
+	TOUCHSTONE: 9
+	AUDREY: 3
+	First Page: 5
+	Second Page: 22
+SCENE IV. The forest.
+	DUKE SENIOR: 30
+	ORLANDO: 11
+	ROSALIND: 43
+	PHEBE: 6
+	SILVIUS: 1
+	JAQUES: 29
+	TOUCHSTONE: 49
+	HYMEN: 31
+	JAQUES DE BOYS: 17

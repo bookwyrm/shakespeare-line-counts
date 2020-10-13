@@ -1,0 +1,210 @@
+ACT I
+SCENE I. Rome. A street.
+	First Citizen: 61
+	All: 6
+	Second Citizen: 8
+	MENENIUS: 93
+	MARCIUS: 78
+	Messenger: 2
+	First Senator: 7
+	COMINIUS: 3
+	TITUS: 5
+	SICINIUS: 16
+	BRUTUS: 19
+SCENE II. Corioli. The Senate-house.
+	First Senator: 7
+	AUFIDIUS: 31
+	Second Senator: 7
+	All: 2
+SCENE III. Rome. A room in Marcius' house.
+	VOLUMNIA: 50
+	VIRGILIA: 20
+	Gentlewoman: 1
+	VALERIA: 40
+SCENE IV. Before Corioli.
+	MARCIUS: 35
+	LARTIUS: 19
+	Messenger: 2
+	First Senator: 10
+	First Soldier: 7
+	Second Soldier: 1
+	All: 2
+SCENE V. Corioli. A street.
+	First Roman: 1
+	Second Roman: 1
+	Third Roman: 1
+	MARCIUS: 18
+	LARTIUS: 11
+SCENE VI. Near the camp of Cominius.
+	COMINIUS: 48
+	Messenger: 9
+	MARCIUS: 51
+SCENE VII. The gates of Corioli.
+	LARTIUS: 7
+	Lieutenant: 1
+SCENE VIII. A field of battle.
+	MARCIUS: 9
+	AUFIDIUS: 10
+SCENE IX. The Roman camp.
+	COMINIUS: 56
+	LARTIUS: 5
+	MARCIUS: 27
+	All: 1
+	CORIOLANUS: 18
+SCENE X. The camp of the Volsces.
+	AUFIDIUS: 32
+	First Soldier: 4
+ACT II
+SCENE I. Rome. A public place.
+	MENENIUS: 119
+	BRUTUS: 55
+	SICINIUS: 29
+	Both: 3
+	VOLUMNIA: 39
+	VIRGILIA: 4
+	VALERIA: 1
+	Herald: 6
+	All: 1
+	CORIOLANUS: 21
+	COMINIUS: 3
+	Messenger: 9
+SCENE II. The same. The Capitol.
+	First Officer: 14
+	Second Officer: 22
+	MENENIUS: 41
+	First Senator: 13
+	SICINIUS: 10
+	BRUTUS: 14
+	CORIOLANUS: 25
+	COMINIUS: 47
+	Officer: 1
+	Senators: 1
+SCENE III. The same. The Forum.
+	First Citizen: 8
+	Second Citizen: 15
+	Third Citizen: 53
+	All: 3
+	MENENIUS: 13
+	CORIOLANUS: 66
+	Fourth Citizen: 6
+	Fifth Citizen: 2
+	Both Citizens: 1
+	Sixth Citizen: 2
+	Seventh Citizen: 2
+	All Citizens: 1
+	SICINIUS: 54
+	BRUTUS: 56
+	Citizens: 1
+ACT III
+SCENE I. Rome. A street.
+	CORIOLANUS: 152
+	LARTIUS: 12
+	COMINIUS: 30
+	SICINIUS: 62
+	BRUTUS: 45
+	MENENIUS: 89
+	First Senator: 12
+	Citizens: 13
+	AEdile: 1
+	Second Senator: 1
+	A Patrician: 1
+	Second Patrician: 1
+	First Citizen: 3
+SCENE II. A room in CORIOLANUS'S house.
+	CORIOLANUS: 59
+	A Patrician: 2
+	VOLUMNIA: 77
+	MENENIUS: 21
+	First Senator: 3
+	COMINIUS: 10
+SCENE III. The same. The Forum.
+	BRUTUS: 24
+	AEdile: 9
+	SICINIUS: 53
+	MENENIUS: 14
+	CORIOLANUS: 50
+	First Senator: 1
+	Both Tribunes: 1
+	COMINIUS: 11
+	Citizens: 7
+ACT IV
+SCENE I. Rome. Before a gate of the city.
+	CORIOLANUS: 44
+	VIRGILIA: 1
+	VOLUMNIA: 7
+	COMINIUS: 7
+	MENENIUS: 5
+SCENE II. The same. A  street near the gate.
+	SICINIUS: 16
+	BRUTUS: 10
+	VOLUMNIA: 35
+	MENENIUS: 5
+	VIRGILIA: 4
+SCENE III. A highway between Rome and Antium.
+	Roman: 29
+	Volsce: 20
+SCENE IV. Antium. Before Aufidius's house.
+	CORIOLANUS: 26
+	Citizen: 4
+SCENE V. The same. A hall in Aufidius's house.
+	First Servingman: 29
+	Second Servingman: 35
+	CORIOLANUS: 64
+	Third Servingman: 49
+	AUFIDIUS: 56
+	All: 1
+SCENE VI. Rome. A public place.
+	SICINIUS: 40
+	BRUTUS: 20
+	Both Tribunes: 3
+	MENENIUS: 57
+	Citizens: 3
+	First Citizen: 7
+	AEdile: 6
+	Messenger: 11
+	Second Messenger: 6
+	COMINIUS: 40
+	Second Citizen: 2
+	Third Citizen: 4
+SCENE VII. A camp, at a small distance from Rome.
+	AUFIDIUS: 48
+	Lieutenant: 11
+ACT V
+SCENE I. Rome. A public place.
+	MENENIUS: 40
+	COMINIUS: 31
+	SICINIUS: 11
+	BRUTUS: 4
+SCENE II. Entrance of the Volscian camp before Rome.
+	First Senator: 31
+	Second Senator: 12
+	MENENIUS: 56
+	CORIOLANUS: 14
+	AUFIDIUS: 1
+SCENE III. The tent of Coriolanus.
+	CORIOLANUS: 106
+	AUFIDIUS: 10
+	VIRGILIA: 6
+	VOLUMNIA: 105
+	Young MARCIUS: 2
+SCENE IV. Rome. A public place.
+	MENENIUS: 36
+	SICINIUS: 14
+	Messenger: 5
+	Second Messenger: 14
+SCENE V. The same. A street near the gate.
+	First Senator: 6
+	All: 1
+SCENE VI. Antium. A public place.
+	AUFIDIUS: 87
+	First Conspirator: 8
+	Second Conspirator: 7
+	Third Conspirator: 12
+	All The Lords: 1
+	Lords: 2
+	First Lord: 13
+	CORIOLANUS: 35
+	All Conspirators: 2
+	All The People: 3
+	Second Lord: 9
+	Third Lord: 2

@@ -1,0 +1,150 @@
+ACT I
+PROLOGUE
+SCENE I. Verona. A public place.
+	SAMPSON: 31
+	GREGORY: 20
+	ABRAHAM: 5
+	BENVOLIO: 51
+	TYBALT: 5
+	First Citizen: 2
+	CAPULET: 3
+	LADY CAPULET: 1
+	MONTAGUE: 28
+	LADY MONTAGUE: 3
+	PRINCE: 23
+	ROMEO: 66
+SCENE II. A street.
+	CAPULET: 34
+	PARIS: 4
+	Servant: 18
+	BENVOLIO: 20
+	ROMEO: 27
+SCENE III. A room in Capulet's house.
+	LADY CAPULET: 37
+	Nurse: 61
+	JULIET: 8
+	Servant: 4
+SCENE IV. A street.
+	ROMEO: 34
+	BENVOLIO: 13
+	MERCUTIO: 73
+SCENE V. A hall in Capulet's house.
+	First Servant: 9
+	Second Servant: 5
+	CAPULET: 56
+	Second Capulet: 3
+	ROMEO: 28
+	Servant: 1
+	TYBALT: 17
+	JULIET: 19
+	Nurse: 15
+	BENVOLIO: 1
+ACT II
+PROLOGUE
+	Chorus: 14
+SCENE I. A lane by the wall of Capulet's orchard.
+	ROMEO: 2
+	BENVOLIO: 9
+	MERCUTIO: 34
+SCENE II. Capulet's orchard.
+	ROMEO: 87
+	JULIET: 115
+	Nurse: 2
+SCENE III. Friar Laurence's cell.
+	FRIAR LAURENCE: 72
+	ROMEO: 25
+SCENE IV. A street.
+	MERCUTIO: 88
+	BENVOLIO: 13
+	ROMEO: 46
+	Nurse: 46
+	PETER: 6
+	NURSE: 9
+SCENE V. Capulet's orchard.
+	JULIET: 44
+	Nurse: 36
+SCENE VI. Friar Laurence's cell.
+	FRIAR LAURENCE: 18
+	ROMEO: 12
+	JULIET: 7
+ACT III
+SCENE I. A public place.
+	BENVOLIO: 53
+	MERCUTIO: 66
+	TYBALT: 14
+	ROMEO: 36
+	First Citizen: 4
+	PRINCE: 16
+	LADY CAPULET: 11
+	MONTAGUE: 3
+SCENE II. Capulet's orchard.
+	JULIET: 116
+	Nurse: 31
+SCENE III. Friar Laurence's cell.
+	FRIAR LAURENCE: 87
+	ROMEO: 70
+	Nurse: 22
+SCENE IV. A room in Capulet's house.
+	CAPULET: 31
+	PARIS: 4
+	LADY CAPULET: 2
+SCENE V. Capulet's orchard.
+	JULIET: 105
+	ROMEO: 24
+	Nurse: 25
+	LADY CAPULET: 37
+	CAPULET: 64
+ACT IV
+SCENE I. Friar Laurence's cell.
+	FRIAR LAURENCE: 56
+	PARIS: 23
+	JULIET: 48
+SCENE II. Hall in Capulet's house.
+	CAPULET: 26
+	Second Servant: 5
+	Nurse: 2
+	JULIET: 12
+	LADY CAPULET: 1
+	LADY  CAPULET: 2
+SCENE III. Juliet's chamber.
+	JULIET: 56
+	LADY CAPULET: 3
+SCENE IV. Hall in Capulet's house.
+	LADY CAPULET: 3
+	Nurse: 4
+	CAPULET: 21
+	First Servant: 1
+	Second Servant: 2
+SCENE V. Juliet's chamber.
+	Nurse: 28
+	LADY CAPULET: 13
+	CAPULET: 28
+	FRIAR LAURENCE: 25
+	PARIS: 6
+	First Musician: 9
+	PETER: 27
+	Second Musician: 4
+	Musician: 1
+	Third Musician: 1
+ACT V
+SCENE I. Mantua. A street.
+	ROMEO: 72
+	BALTHASAR: 11
+	Apothecary: 7
+SCENE II. Friar Laurence's cell.
+	FRIAR JOHN: 13
+	FRIAR LAURENCE: 17
+SCENE III. A churchyard; in it a tomb belonging to the Capulets.
+	PARIS: 33
+	PAGE: 9
+	ROMEO: 83
+	BALTHASAR: 21
+	FRIAR LAURENCE: 76
+	JULIET: 14
+	First Watchman: 19
+	Second Watchman: 1
+	Third Watchman: 3
+	PRINCE: 37
+	CAPULET: 10
+	LADY CAPULET: 5
+	MONTAGUE: 10

@@ -1,0 +1,138 @@
+ACT I
+SCENE I. Rome. A street.
+	FLAVIUS: 27
+	First Commoner: 1
+	MARULLUS: 31
+	Second Commoner: 16
+SCENE II. A public place.
+	CAESAR: 39
+	CASCA: 64
+	CALPURNIA: 1
+	ANTONY: 6
+	Soothsayer: 3
+	BRUTUS: 73
+	CASSIUS: 143
+SCENE III. The same. A street.
+	CICERO: 9
+	CASCA: 57
+	CASSIUS: 96
+	CINNA: 9
+ACT II
+SCENE I. Rome. BRUTUS's orchard.
+	BRUTUS: 181
+	LUCIUS: 17
+	CASSIUS: 37
+	DECIUS BRUTUS: 12
+	CASCA: 10
+	CINNA: 4
+	METELLUS CIMBER: 9
+	TREBONIUS: 3
+	PORTIA: 62
+	LIGARIUS: 15
+SCENE II. CAESAR's house.
+	CAESAR: 73
+	Servant: 5
+	CALPURNIA: 26
+	DECIUS BRUTUS: 25
+	PUBLIUS: 1
+	BRUTUS: 3
+	ANTONY: 1
+	TREBONIUS: 3
+SCENE III. A street near the Capitol.
+	ARTEMIDORUS: 15
+SCENE IV. Another part of the same street, before the house of BRUTUS.
+	PORTIA: 30
+	LUCIUS: 6
+	Soothsayer: 14
+ACT III
+SCENE I. Rome. Before the Capitol; the Senate sitting above.
+	CAESAR: 23
+	Soothsayer: 1
+	ARTEMIDORUS: 4
+	DECIUS BRUTUS: 7
+	PUBLIUS: 1
+	CASSIUS: 62
+	POPILIUS: 2
+	BRUTUS: 80
+	CINNA: 5
+	METELLUS CIMBER: 8
+	CASCA: 2
+	TREBONIUS: 3
+	Servant: 21
+	ANTONY: 98
+SCENE II. The Forum.
+	Citizens: 2
+	BRUTUS: 51
+	First Citizen: 18
+	Second Citizen: 16
+	Third Citizen: 16
+	All: 10
+	Fourth Citizen: 14
+	ANTONY: 148
+	Several Citizens: 2
+	Servant: 4
+SCENE III. A street.
+	CINNA THE POET: 14
+	First Citizen: 4
+	Second Citizen: 5
+	Third Citizen: 6
+	Fourth Citizen: 6
+ACT IV
+SCENE I. A house in Rome.
+	ANTONY: 38
+	OCTAVIUS: 12
+	LEPIDUS: 4
+SCENE II. Camp near Sardis. Before BRUTUS's tent.
+	BRUTUS: 34
+	LUCILIUS: 10
+	PINDARUS: 3
+	CASSIUS: 7
+	First Soldier: 1
+	Second Soldier: 1
+	Third Soldier: 1
+SCENE III. Brutus's tent.
+	CASSIUS: 98
+	BRUTUS: 206
+	Poet: 7
+	LUCILIUS: 1
+	MESSALA: 14
+	TITINIUS: 0
+	LUCIUS: 10
+	VARRO: 4
+	GHOST: 3
+	CLAUDIUS: 4
+ACT V
+SCENE I. The plains of Philippi.
+	OCTAVIUS: 24
+	ANTONY: 22
+	Messenger: 4
+	BRUTUS: 33
+	CASSIUS: 49
+	LUCILIUS: 1
+	MESSALA: 2
+SCENE II. The same. The field of battle.
+	BRUTUS: 6
+SCENE III. Another part of the field.
+	CASSIUS: 33
+	TITINIUS: 31
+	PINDARUS: 14
+	MESSALA: 19
+	BRUTUS: 18
+	CATO: 3
+SCENE IV. Another part of the field.
+	BRUTUS: 3
+	CATO: 5
+	LUCILIUS: 12
+	First Soldier: 4
+	Second Soldier: 1
+	ANTONY: 8
+SCENE V. Another part of the field.
+	BRUTUS: 40
+	CLITUS: 10
+	DARDANIUS: 3
+	VOLUMNIUS: 3
+	STRATO: 7
+	OCTAVIUS: 10
+	MESSALA: 4
+	LUCILIUS: 2
+	ANTONY: 8

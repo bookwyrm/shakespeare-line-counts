@@ -1,0 +1,113 @@
+ACT I
+SCENE I. Venice. A street.
+	RODERIGO: 42
+	IAGO: 107
+	BRABANTIO: 46
+SCENE II. Another street.
+	IAGO: 27
+	OTHELLO: 38
+	CASSIO: 17
+	RODERIGO: 1
+	BRABANTIO: 31
+	First Officer: 3
+SCENE III. A council-chamber.
+	DUKE OF VENICE: 71
+	First Senator: 26
+	Second Senator: 5
+	Sailor: 4
+	First Officer: 2
+	Messenger: 9
+	BRABANTIO: 62
+	Senator: 2
+	OTHELLO: 115
+	DESDEMONA: 28
+	RODERIGO: 14
+	IAGO: 87
+ACT II
+SCENE I. A Sea-port in Cyprus. An open place near the quay.
+	MONTANO: 21
+	First Gentleman: 3
+	Second Gentleman: 12
+	Third Gentleman: 17
+	CASSIO: 54
+	Fourth Gentleman: 2
+	Second Gentlemen: 2
+	DESDEMONA: 30
+	IAGO: 151
+	EMILIA: 3
+	OTHELLO: 30
+	RODERIGO: 8
+SCENE II. A street.
+	Herald: 12
+SCENE III. A hall in the castle.
+	OTHELLO: 57
+	CASSIO: 77
+	IAGO: 214
+	MONTANO: 33
+	All: 1
+	RODERIGO: 7
+	DESDEMONA: 1
+ACT III
+SCENE I. Before the castle.
+	CASSIO: 23
+	Clown: 16
+	First Musician: 5
+	IAGO: 5
+	EMILIA: 13
+SCENE II. A room in the castle.
+	OTHELLO: 5
+	IAGO: 1
+	Gentleman: 1
+SCENE III. The garden of the castle.
+	DESDEMONA: 72
+	EMILIA: 29
+	CASSIO: 12
+	IAGO: 219
+	OTHELLO: 201
+SCENE IV. Before the castle.
+	DESDEMONA: 79
+	Clown: 11
+	EMILIA: 18
+	OTHELLO: 53
+	IAGO: 9
+	CASSIO: 37
+	BIANCA: 17
+ACT IV
+SCENE I. Cyprus. Before the castle.
+	IAGO: 133
+	OTHELLO: 101
+	CASSIO: 27
+	BIANCA: 10
+	LODOVICO: 25
+	DESDEMONA: 14
+SCENE II. A room in the castle.
+	OTHELLO: 71
+	EMILIA: 44
+	DESDEMONA: 64
+	IAGO: 59
+	RODERIGO: 31
+SCENE III. Another room In the castle.
+	LODOVICO: 2
+	OTHELLO: 5
+	DESDEMONA: 58
+	EMILIA: 47
+ACT V
+SCENE I. Cyprus. A street.
+	IAGO: 74
+	RODERIGO: 11
+	CASSIO: 16
+	OTHELLO: 8
+	GRATIANO: 15
+	LODOVICO: 9
+	BIANCA: 7
+	EMILIA: 4
+SCENE II. A bedchamber in the castle: DESDEMONA in bed asleep;
+	OTHELLO: 203
+	DESDEMONA: 42
+	EMILIA: 87
+	MONTANO: 7
+	GRATIANO: 17
+	IAGO: 12
+	All: 1
+	LODOVICO: 40
+	CASSIO: 14

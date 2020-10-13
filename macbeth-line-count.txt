@@ -1,0 +1,155 @@
+ACT I
+SCENE I. A desert place.
+	First Witch: 4
+	Second Witch: 4
+	Third Witch: 3
+	ALL: 2
+SCENE II. A camp near Forres.
+	DUNCAN: 15
+	MALCOLM: 6
+	Sergeant: 35
+	LENNOX: 2
+	ROSS: 18
+SCENE III. A heath near Forres.
+	First Witch: 29
+	Second Witch: 6
+	Third Witch: 8
+	ALL: 6
+	MACBETH: 50
+	BANQUO: 42
+	ROSS: 16
+	ANGUS: 12
+SCENE IV. Forres. The palace.
+	DUNCAN: 37
+	MALCOLM: 10
+	MACBETH: 16
+	BANQUO: 2
+SCENE V. Inverness. Macbeth's castle.
+	LADY MACBETH: 73
+	Messenger: 5
+	MACBETH: 4
+SCENE VI. Before Macbeth's castle.
+	DUNCAN: 18
+	BANQUO: 8
+	LADY MACBETH: 11
+SCENE VII. Macbeth's castle.
+	MACBETH: 49
+	LADY MACBETH: 43
+ACT II
+SCENE I. Court of Macbeth's castle.
+	BANQUO: 25
+	FLEANCE: 2
+	MACBETH: 45
+SCENE II. The same.
+	LADY MACBETH: 51
+	MACBETH: 40
+SCENE III. The same.
+	Porter: 46
+	MACDUFF: 40
+	LENNOX: 20
+	MACBETH: 32
+	LADY MACBETH: 6
+	BANQUO: 11
+	DONALBAIN: 10
+	MALCOLM: 14
+	ALL: 2
+SCENE IV. Outside Macbeth's castle.
+	Old Man: 11
+	ROSS: 26
+	MACDUFF: 14
+ACT III
+SCENE I. Forres. The palace.
+	BANQUO: 21
+	MACBETH: 115
+	LADY MACBETH: 3
+	ATTENDANT: 1
+	First Murderer: 8
+	Second Murderer: 6
+	Both Murderers: 2
+SCENE II. The palace.
+	LADY MACBETH: 18
+	Servant: 2
+	MACBETH: 42
+SCENE III. A park near the palace.
+	First Murderer: 11
+	Third Murderer: 8
+	Second Murderer: 9
+	BANQUO: 4
+SCENE IV. The same. Hall in the palace.
+	MACBETH: 108
+	Lords: 3
+	LADY MACBETH: 40
+	First Murderer: 7
+	LENNOX: 5
+	ROSS: 5
+SCENE V. A Heath.
+	First Witch: 2
+	HECATE: 34
+SCENE VI. Forres. The palace.
+	LENNOX: 34
+	Lord: 21
+ACT IV
+SCENE I. A cavern. In the middle, a boiling cauldron.
+	First Witch: 27
+	Second Witch: 17
+	Third Witch: 16
+	ALL: 13
+	HECATE: 5
+	MACBETH: 78
+	First Apparition: 2
+	Second Apparition: 4
+	Third Apparition: 5
+	LENNOX: 6
+SCENE II. Fife. Macduff's castle.
+	LADY MACDUFF: 41
+	ROSS: 20
+	Son: 20
+	Messenger: 9
+	First Murderer: 4
+SCENE III. England. Before the King's palace.
+	MALCOLM: 143
+	MACDUFF: 92
+	Doctor: 5
+	ROSS: 41
+ACT V
+SCENE I. Dunsinane. Ante-room in the castle.
+	Doctor: 31
+	Gentlewoman: 23
+	LADY MACBETH: 20
+SCENE II. The country near Dunsinane.
+	MENTEITH: 10
+	ANGUS: 9
+	CAITHNESS: 11
+	LENNOX: 7
+SCENE III. Dunsinane. A room in the castle.
+	MACBETH: 56
+	Servant: 3
+	SEYTON: 3
+	Doctor: 9
+SCENE IV. Country near Birnam wood.
+	MALCOLM: 11
+	MENTEITH: 2
+	SIWARD: 10
+	Soldiers: 1
+	MACDUFF: 3
+SCENE V. Dunsinane. Within the castle.
+	MACBETH: 46
+	SEYTON: 2
+	Messenger: 9
+SCENE VI. Dunsinane. Before the castle.
+	MALCOLM: 6
+	SIWARD: 3
+	MACDUFF: 2
+SCENE VII. Another part of the field.
+	MACBETH: 10
+	YOUNG SIWARD: 7
+	MACDUFF: 10
+	SIWARD: 6
+	MALCOLM: 2
+SCENE VIII. Another part of the field.
+	MACBETH: 26
+	MACDUFF: 19
+	MALCOLM: 20
+	SIWARD: 11
+	ROSS: 9
+	ALL: 1
