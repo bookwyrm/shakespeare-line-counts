@@ -1,0 +1,178 @@
+ACT I
+SCENE I. London. A street.
+	GLOUCESTER: 125
+	CLARENCE: 22
+	BRAKENBURY: 8
+	HASTINGS: 10
+SCENE II. The same. Another street.
+	LADY ANNE: 119
+	GLOUCESTER: 156
+	Gentleman: 1
+	GENTLEMEN: 1
+SCENE III. The palace.
+	RIVERS: 18
+	GREY: 6
+	QUEEN ELIZABETH: 51
+	BUCKINGHAM: 12
+	DERBY: 8
+	GLOUCESTER: 126
+	QUEEN MARGARET: 124
+	HASTINGS: 5
+	DORSET: 3
+	CATESBY: 2
+	First Murderer: 7
+SCENE IV. London. The Tower.
+	BRAKENBURY: 25
+	CLARENCE: 141
+	First Murderer: 49
+	Second Murderer: 57
+	Second murderer: 1
+	Both: 3
+ACT II
+SCENE I. London. The palace.
+	KING EDWARD IV: 65
+	RIVERS: 4
+	HASTINGS: 3
+	QUEEN ELIZABETH: 7
+	DORSET: 4
+	BUCKINGHAM: 13
+	GLOUCESTER: 41
+	DERBY: 5
+SCENE II. The palace.
+	Boy: 18
+	DUCHESS OF YORK: 44
+	Girl: 6
+	QUEEN ELIZABETH: 20
+	Children: 3
+	DORSET: 7
+	RIVERS: 12
+	GLOUCESTER: 19
+	BUCKINGHAM: 24
+	HASTINGS: 1
+SCENE III. London. A street.
+	First Citizen: 8
+	Second Citizen: 13
+	Third Citizen: 28
+SCENE IV. London. The palace.
+	ARCHBISHOP OF YORK: 12
+	DUCHESS OF YORK: 26
+	QUEEN ELIZABETH: 15
+	YORK: 17
+	Messenger: 9
+ACT III
+SCENE I. London. A street.
+	BUCKINGHAM: 58
+	GLOUCESTER: 57
+	PRINCE EDWARD: 43
+	Lord Mayor: 1
+	HASTINGS: 6
+	CARDINAL: 9
+	YORK: 23
+	CATESBY: 5
+SCENE II. Before Lord Hastings' house.
+	Messenger: 15
+	HASTINGS: 70
+	CATESBY: 16
+	STANLEY: 10
+	LORD STANLEY: 3
+	Pursuivant: 3
+	Priest: 1
+	BUCKINGHAM: 7
+SCENE III. Pomfret Castle.
+	RATCLIFF: 3
+	RIVERS: 17
+	GREY: 4
+	VAUGHAN: 1
+SCENE IV. The Tower of London.
+	HASTINGS: 49
+	BUCKINGHAM: 12
+	DERBY: 8
+	BISHOP OF ELY: 7
+	GLOUCESTER: 32
+	RATCLIFF: 2
+	LOVEL: 1
+SCENE V. The Tower-walls.
+	GLOUCESTER: 69
+	BUCKINGHAM: 27
+	LOVEL: 2
+	Lord Mayor: 11
+SCENE VI. The same.
+	Scrivener: 14
+SCENE VII. Baynard's Castle.
+	GLOUCESTER: 73
+	BUCKINGHAM: 156
+	CATESBY: 14
+	Lord Mayor: 4
+	ANOTHER: 1
+	Citizens: 1
+ACT IV
+SCENE I. Before the Tower.
+	DUCHESS OF YORK: 17
+	LADY ANNE: 39
+	QUEEN ELIZABETH: 32
+	BRAKENBURY: 6
+	LORD STANLEY: 11
+	DORSET: 1
+SCENE II. London. The palace.
+	KING RICHARD III: 85
+	BUCKINGHAM: 29
+	CATESBY: 3
+	Page: 6
+	STANLEY: 3
+	TYRREL: 8
+SCENE III. The same.
+	TYRREL: 30
+	KING RICHARD III: 26
+	CATESBY: 4
+SCENE IV. Before the palace.
+	QUEEN MARGARET: 94
+	QUEEN ELIZABETH: 150
+	DUCHESS OF YORK: 55
+	KING RICHARD III: 201
+	RATCLIFF: 10
+	CATESBY: 8
+	STANLEY: 17
+	Messenger: 5
+	Second Messenger: 3
+	Third Messenger: 7
+	Fourth Messenger: 10
+SCENE V. Lord Derby's house.
+	DERBY: 11
+	CHRISTOPHER: 8
+ACT V
+SCENE I. Salisbury. An open place.
+	BUCKINGHAM: 27
+	Sheriff: 2
+SCENE II. The camp near Tamworth.
+	RICHMOND: 19
+	OXFORD: 2
+	HERBERT: 1
+	BLUNT: 2
+SCENE III. Bosworth Field.
+	KING RICHARD III: 155
+	SURREY: 1
+	NORFOLK: 10
+	RICHMOND: 86
+	BLUNT: 6
+	CATESBY: 4
+	RATCLIFF: 15
+	DERBY: 21
+	of Prince Edward: 8
+	of King Henry VI: 8
+	Ghost of CLARENCE: 9
+	Ghost of RIVERS: 3
+	Ghost of GREY: 2
+	Ghost of VAUGHAN: 3
+	All: 3
+	Ghost of HASTINGS: 7
+	of young Princes: 9
+	Ghost of LADY ANNE: 10
+	of BUCKINGHAM: 11
+	LORDS: 3
+	Messenger: 1
+SCENE IV. Another part of the field.
+	CATESBY: 7
+	KING RICHARD III: 6
+SCENE V. Another part of the field.
+	RICHMOND: 32
+	DERBY: 9
