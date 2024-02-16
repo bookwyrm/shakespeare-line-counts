@@ -1,0 +1,115 @@
+ACT I
+SCENE I. London. The palace.
+	KING HENRY IV: 75
+	WESTMORELAND: 33
+SCENE II. London. An apartment of the Prince's.
+	FALSTAFF: 79
+	PRINCE HENRY: 81
+	POINS: 46
+SCENE III. London. The palace.
+	KING HENRY IV: 45
+	EARL OF WORCESTER: 63
+	NORTHUMBERLAND: 26
+	HOTSPUR: 172
+	SIR WALTER BLUNT: 7
+ACT II
+SCENE I. Rochester. An inn yard.
+	First Carrier: 20
+	Ostler: 1
+	Second Carrier: 16
+	GADSHILL: 38
+	Chamberlain: 17
+SCENE II. The highway, near Gadshill.
+	POINS: 11
+	PRINCE HENRY: 27
+	FALSTAFF: 54
+	GADSHILL: 3
+	BARDOLPH: 3
+	PETO: 1
+	First Traveller: 2
+	Thieves: 1
+	Travellers: 2
+SCENE III. Warkworth castle
+	HOTSPUR: 72
+	LADY PERCY: 47
+	Servant: 3
+SCENE IV. The Boar's-Head Tavern, Eastcheap.
+	PRINCE HENRY: 220
+	POINS: 22
+	FRANCIS: 15
+	Vintner: 4
+	FALSTAFF: 222
+	GADSHILL: 3
+	PETO: 13
+	Hostess: 12
+	BARDOLPH: 12
+	Sheriff: 8
+	Carrier: 1
+ACT III
+SCENE I. Bangor. The Archdeacon's house.
+	MORTIMER: 60
+	HOTSPUR: 104
+	GLENDOWER: 79
+	EARL OF WORCESTER: 16
+	LADY PERCY: 10
+SCENE II. London. The palace.
+	KING HENRY IV: 130
+	PRINCE HENRY: 83
+	SIR WALTER BLUNT: 7
+	Scene III: 1
+	FALSTAFF: 117
+	BARDOLPH: 10
+	Hostess: 37
+ACT IV
+SCENE I. The rebel camp near Shrewsbury.
+	HOTSPUR: 77
+	EARL OF DOUGLAS: 13
+	Messenger: 6
+	EARL OF WORCESTER: 21
+	VERNON: 25
+	WORCESTER: 1
+SCENE II. A public road near Coventry.
+	FALSTAFF: 63
+	BARDOLPH: 3
+	PRINCE HENRY: 8
+	WESTMORELAND: 7
+SCENE III. The rebel camp near Shrewsbury.
+	HOTSPUR: 73
+	EARL OF WORCESTER: 4
+	EARL OF DOUGLAS: 4
+	VERNON: 20
+	SIR WALTER BLUNT: 20
+SCENE IV. York. The ARCHBISHOP'S palace.
+	ARCHBISHOP OF YORK: 34
+	SIR MICHAEL: 8
+ACT V
+SCENE I. KING HENRY IV's camp near Shrewsbury.
+	KING HENRY IV: 47
+	PRINCE HENRY: 29
+	EARL OF WORCESTER: 47
+	FALSTAFF: 19
+SCENE II. The rebel camp.
+	EARL OF WORCESTER: 34
+	VERNON: 21
+	HOTSPUR: 39
+	EARL OF DOUGLAS: 6
+	Messenger: 2
+SCENE III. Plain between the camps.
+	SIR WALTER BLUNT: 7
+	EARL OF DOUGLAS: 15
+	HOTSPUR: 9
+	FALSTAFF: 22
+	PRINCE HENRY: 9
+SCENE IV. Another part of the field.
+	KING HENRY IV: 19
+	LANCASTER: 6
+	PRINCE HENRY: 79
+	WESTMORELAND: 1
+	EARL OF DOUGLAS: 8
+	HOTSPUR: 16
+	FALSTAFF: 40
+SCENE V. Another part of the field.
+	KING HENRY IV: 25
+	EARL OF WORCESTER: 3
+	PRINCE HENRY: 15
+	LANCASTER: 2
