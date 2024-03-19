@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-fh = File.open('henry-iv-entire-play.html')
+fh = File.open('taming-of-the-shrew.html')
 role = ''
 lines = {}
 while line = fh.gets
